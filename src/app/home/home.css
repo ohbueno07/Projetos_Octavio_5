@@ -20,9 +20,7 @@ div h4 {
 .div-margin {
     margin-top: 50px;
 }
-.foto-1 {
-    height: 420px;
-} 
+
 .img-garotas-bonitas { /* logo e 1º foto garotas bonitas*/
     margin-top:8px;
 }
@@ -30,10 +28,24 @@ div h4 {
 /*
 * LOGO
 */
+.conteudo-logo {
+    margin-left:90px;
+}
+.titulo-logo {
+    margin-top: 232px;
+    margin-left:-250px;
+    color: #29a329; 
+    font-weight: bold;
+}
 
 /*
 * BENEFICIOS
 */
+.div-beneficios {
+    padding-top: 10px;
+    background-color: #eee;
+    border: 1px solid #00264d;
+}
 .beneficios {
     text-align: center;
 }
@@ -41,6 +53,10 @@ div h4 {
 /*
 * 1º FOTO - 
 */
+.foto-1 {
+    padding-top: 30px;
+    height: 500px;
+} 
 .textoImagens {
     font-size: 264%;
     margin-left: -90px;
@@ -52,7 +68,8 @@ div h4 {
 * 2º FOTO - PELE BONITA
 */
 .foto-2 {
-    height: 350px;
+    padding-top: 30px;
+    height: 400px;
 }    
 .img-pele-bonita {
     text-align: justify;

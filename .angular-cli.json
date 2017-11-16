@@ -10,7 +10,8 @@
       "assets": [
         "assets",
         "favicon.ico",
-		"img"
+        "logo_03.png",
+		    "img"
       ],
       "index": "index.html",
       "main": "main.ts",
@@ -21,7 +22,8 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "../node_modules/normalize.css/normalize.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
